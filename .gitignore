@@ -20,3 +20,7 @@ model/als_plays_v1_1_iteration_7min/data/product/_SUCCESS
 model/als_plays_v1_1_iteration_7min/data/user/_SUCCESS
 model/als_plays_v1_1_iteration_7min/metadata/_SUCCESS
 model/als_plays_v1_1_iteration_7min/metadata/part-00000
+.ipynb_checkpoints/auc_curve_1-checkpoint.ipynb
+.ipynb_checkpoints/CLEAN_ALS_3.1 -sparkALS_user_song_count_all_SLOTS-checkpoint.ipynb
+.ipynb_checkpoints/CLEAN_v2.6_leaveOneOut_ALS_BayesianPR-checkpoint.ipynb
+.ipynb_checkpoints/Time aware similarity based recommendations_v2.2_leaveOneOut_AUC_modifiedCSR-checkpoint.ipynb
