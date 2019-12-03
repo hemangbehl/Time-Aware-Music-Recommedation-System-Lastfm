@@ -17,4 +17,7 @@ Spark, Keras, Python 3.6
 
 #### Folder structure
 /datasets: contains sample dataset files
+
 /html: contains the .html files of the ipython notebooks
+
+Presentation and Report is located at the root folder itself.
